@@ -1,3 +1,5 @@
+Final Project for my Junior year tech class at Union County Magnet High School (June 2014)
+
 The game that will be created will consist of four varied mini-games. Their will be a main menu with a button for each game and an instructions screen. Each game will have a game over screen and a winning screen. Each game will have different objectives. The four games will be Pong, Soccer, a shooting gallery, and a maze.  The target audience is children of all ages. 
 
 Pong will be a two player game where each player has their own side of the screen with a paddle that they can control using two keys on the keyboard. A ball will start in the middle of the screen and begin to move to one side. The player must intercept the ball with their paddle to send it to the other side of the screen. If one player misses the ball and it passes the screen, the other player gets a point. Once a point is scored, the ball reappears in the middle of the screen and a new point starts. First to seven points wins.
